@@ -1,4 +1,4 @@
-### Hello, I'm Rohith G 👋
+# Hello, I'm Rohith G.. ( ﾉ ﾟｰﾟ)ﾉ
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohith-G1024&layout=compact&theme=dark&hide_border=true)
 
