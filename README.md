@@ -5,6 +5,9 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Rohith-G1024&theme=dark&hide_border=true)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rohith-G1024&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+## Certifications
+[Backend Development and APIs - freecodecamp.org](https://www.freecodecamp.org/certification/grohith/back-end-development-and-apis)
 <!--
 **Rohith-G1024/Rohith-G1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
