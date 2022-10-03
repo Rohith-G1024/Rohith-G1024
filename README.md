@@ -1,7 +1,7 @@
 <section>
-	<h1 align="right">Hello, I'm Rohith G! &emsp; ( ﾉ ﾟｰﾟ)ﾉ </h1>
-	<p align="right" margin-bottom="0"> Final-year CSE undergrad @ PES University, Bengaluru </p>
-	<p align="right" margin-top="0"> 🕸️ Web-Dev Enthusiast 🕸️</p>
+	<h1 align="center">Hello, I'm Rohith G! &emsp; ( ﾉ ﾟｰﾟ)ﾉ </h1>
+	<p align="center" margin-bottom="0"> Final-year CSE undergrad @ PES University, Bengaluru </p>
+	<p align="center" margin-top="0"> 🕸️ Web-Dev Enthusiast 🕸️</p>
 </section>
 
 <br>
@@ -24,8 +24,10 @@
 </div>
 
 <br>
-<h2> Certifications </h2>
+<h2 align="center"> Certifications </h2>
+<p align="center">
 <a href="https://www.freecodecamp.org/certification/grohith/back-end-development-and-apis">🔗Backend Development and APIs - freecodecamp.org</a>
+</p>
 
 <!--
 **Rohith-G1024/Rohith-G1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
