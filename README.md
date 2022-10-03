@@ -1,18 +1,22 @@
 <section>
-	<h1 align="center">Hello, I'm Rohith G! &emsp; ( ﾉ ﾟｰﾟ)ﾉ </h1>
-	<p align="center" margin-bottom="0"> Final-year CSE undergrad @ PES University, Bengaluru </p>
-	<p align="center" margin-top="0"> 🕸️ Web-Dev Enthusiast 🕸️</p>
+	<h1 align="right">Hello, I'm Rohith G! &emsp; ( ﾉ ﾟｰﾟ)ﾉ </h1>
+	<p align="right" margin-bottom="0"> Final-year CSE undergrad @ PES University, Bengaluru </p>
+	<p align="right" margin-top="0"> 🕸️ Web-Dev Enthusiast 🕸️</p>
 </section>
 
 <br>
 <br>
 
-<div> 
+<div align="center">
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Rohith-G1024&theme=dark&hide_border=true) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rohith-G1024&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
+![Github stats](https://github-readme-stats.vercel.app/api?username=Rohith-G1024&theme=dark&hide_border=true) 
 
 </div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rohith-G1024&theme=dark&hide_border=true)](https://git.io/streak-stats) </div>
+
 <div align="center">
 	
   ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohith-G1024&layout=compact&theme=dark&hide_border=true)
