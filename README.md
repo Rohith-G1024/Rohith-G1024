@@ -7,12 +7,12 @@
 <br>
 <br>
 
-<div align="center">
+<!--<div align="center">
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Rohith-G1024&theme=dark&hide_border=true) 
 
 </div>
-
+-->
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rohith-G1024&theme=dark&hide_border=true)](https://git.io/streak-stats) </div>
