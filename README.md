@@ -2,6 +2,7 @@
 	<h1 align="center">Hello, I'm Rohith G! &emsp; ( ﾉ ﾟｰﾟ)ﾉ </h1>
 	<p align="center" margin-bottom="0"> Final-year CSE undergrad @ PES University, Bengaluru </p>
 	<p align="center" margin-top="0"> 🕸️ Web-Dev Enthusiast 🕸️</p>
+	<p align="center" margin-top="0"> <a href="https://g.dev/grohith">Google Developers Profile</a></p>
 </section>
 
 <br>
